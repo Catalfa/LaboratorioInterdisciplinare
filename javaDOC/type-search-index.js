@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"centrivaccinali","l":"CentriVaccinali"},{"p":"centrivaccinali","l":"Centro"},{"p":"centrivaccinali","l":"Cittadino"},{"p":"centrivaccinali","l":"Controlli"},{"p":"centrivaccinali","l":"EndofFile"},{"p":"centrivaccinali","l":"Eventi"}];updateSearchResults();

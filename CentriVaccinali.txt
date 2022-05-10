@@ -1,0 +1,1 @@
+Esempio,via,Rossi,null,Varese,VA,21100,ospedaliero,x
